@@ -116,4 +116,8 @@ footer{
         border-radius: 12px;
         width:100vw;
     }
+    #contact img{
+        height:15px;
+        width: 15px;
+    }
 }
